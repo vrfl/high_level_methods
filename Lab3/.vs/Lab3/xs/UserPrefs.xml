@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1385E05E-74E3-485A-A374-8CAD0B901797}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Airport.cs">
+    <Files>
+      <File FileName="Lab3/Program.cs" Line="70" Column="67" />
+      <File FileName="Lab3/Airplane.cs" Line="1" Column="1" />
+      <File FileName="Lab3/Airport.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3" expanded="True">
+            <Node name="Lab3" expanded="True">
+              <Node name="Airport.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
