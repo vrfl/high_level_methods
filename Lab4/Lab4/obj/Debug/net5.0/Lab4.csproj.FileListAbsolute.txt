@@ -1,0 +1,15 @@
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/bin/Debug/net5.0/Lab4.deps.json
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/bin/Debug/net5.0/Lab4.runtimeconfig.json
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/bin/Debug/net5.0/Lab4.runtimeconfig.dev.json
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/bin/Debug/net5.0/Lab4.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/bin/Debug/net5.0/ref/Lab4.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/bin/Debug/net5.0/Lab4.pdb
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.csproj.AssemblyReference.cache
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.AssemblyInfoInputs.cache
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.AssemblyInfo.cs
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/ref/Lab4.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.pdb
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/Lab4/Lab4/obj/Debug/net5.0/Lab4.genruntimeconfig.cache
