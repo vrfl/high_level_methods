@@ -1,0 +1,15 @@
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/bin/Debug/net5.0/control_work.deps.json
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/bin/Debug/net5.0/control_work.runtimeconfig.json
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/bin/Debug/net5.0/control_work.runtimeconfig.dev.json
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/bin/Debug/net5.0/control_work.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/bin/Debug/net5.0/ref/control_work.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/bin/Debug/net5.0/control_work.pdb
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.csproj.AssemblyReference.cache
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.AssemblyInfoInputs.cache
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.AssemblyInfo.cs
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.csproj.CoreCompileInputs.cache
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/ref/control_work.dll
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.pdb
+/Users/macbook_wachanga/Documents/GitHub/high_level_methods/control_work/control_work/obj/Debug/net5.0/control_work.genruntimeconfig.cache
